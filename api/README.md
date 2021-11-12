@@ -18,7 +18,7 @@ Follow instructions to install the latest version of python for your platform in
            pip install zeep
         ```
 - python-dotenv - (https://pypi.org/project/python-dotenv/) reads key-value pairs from a .env file and can set them as environment variables.
-        ```bash
+        ```
            pip install python-dotenv
         ```
 
@@ -27,7 +27,7 @@ Follow instructions to install the latest version of python for your platform in
 
 To run the server, execute:
 
-```bash
+```
 set FLASK_APP=main.py
 flask run
 ```
