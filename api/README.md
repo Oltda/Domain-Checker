@@ -32,7 +32,7 @@ set FLASK_APP=main.py
 flask run
 ```
 
-## Credential 
+## Credentials 
 In order to be able to interact with the API, it is necessary to sign up to https://regtons.com/en/settings/admins/  and either paste the credential to main.py or create a designated .env file and load the environment variables from there. For more information see http://regtons.com/manual/?cmd=Main
 
 ## API Endpoints and Expected Behavior
